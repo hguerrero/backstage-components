@@ -17,3 +17,4 @@ spec:
   type: service
   owner: CNCF
   lifecycle: production
+  system: default/microcks
