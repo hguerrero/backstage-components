@@ -1,0 +1,19 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: microcks
+  annotations:
+    github.com/project-slug: microcks/microcks
+  description: |
+    Microcks is an open source cloud-native tool for API Mocking and Testing
+  links:
+    - title: Website
+      url: http://microcks.io
+    - title: Documentation
+      url: https://microcks.io/documentation/
+    - title: Discord Chat
+      url: https://discord.com/invite/JA4rbcGzk7
+spec:
+  type: service
+  owner: CNCF
+  lifecycle: production
