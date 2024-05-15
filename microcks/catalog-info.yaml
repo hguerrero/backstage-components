@@ -18,3 +18,5 @@ spec:
   owner: CNCF
   lifecycle: production
   system: microcks
+  providesApis:
+    - API-Pastry---2.0_2.0.0  
