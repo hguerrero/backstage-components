@@ -1,11 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: cncf
-  description: Cloud Native Computing Foundation
+  name: microcks
+  description: Microcks
 spec:
   type: product-area
   profile:
-    displayName: Cloud Native Computing Foundation
-    picture: https://github.com/cncf/artwork/blob/main/other/cncf/horizontal/color/cncf-color.png?raw=true
+    displayName: Microcks
   children: []

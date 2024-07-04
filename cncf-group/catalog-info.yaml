@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Group
+metadata:
+  name: cncf
+  description: Cloud Native Computing Foundation
+spec:
+  type: product-area
+  profile:
+    displayName: Cloud Native Computing Foundation
+    picture: https://github.com/cncf/artwork/blob/main/other/cncf/horizontal/color/cncf-color.png?raw=true
+  children: []
